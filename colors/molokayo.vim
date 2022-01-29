@@ -32,6 +32,7 @@ hi! Error guibg=#990023 guifg=#ffca00 ctermbg=160 ctermfg=214
 hi! TabLineFill guibg=#202020 guifg=#141414 ctermbg=232 ctermfg=232
 hi! TabLineSel guibg=#141414 guifg=#ffb700 ctermbg=232 ctermfg=214 cterm=bold gui=bold
 hi! TabLine guibg=#141414 guifg=#404040 ctermbg=232 ctermfg=238
+hi! LineNr ctermbg=233 ctermfg=242
 
 if g:molokayo#high_contrast#comments == 1
     hi! Comment guibg=bg guifg=#A6A185 ctermbg=bg ctermfg=248
